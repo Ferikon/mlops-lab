@@ -1,3 +1,5 @@
+import sys
+sys.path.append('/Users/arseniigusev/Desktop/mlops-lab')
 from preprocess import load_and_normalize_iris
 import numpy as np
 
